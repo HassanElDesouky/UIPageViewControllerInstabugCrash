@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Instabug",
+        "repositoryURL": "https://github.com/Instabug/Instabug-SP",
+        "state": {
+          "branch": "master",
+          "revision": "2e23d2e6613fde2a6722ef97fafd7faad88f96f4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
